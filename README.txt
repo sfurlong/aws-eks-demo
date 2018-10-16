@@ -1,6 +1,6 @@
 To get started, please review materials in this order
-1. Setup your environment:  EKS-demo-runbook.doc
-2. Watch the video:  well-demonstrated-EKS.mp4
+1. Watch the video:  EKS-demo.mp4
+2. Setup your environment:  EKS-demo-runbook.doc
 3. Review the script: EKS-demo-script.doc
 4. Review the slides: EKS-demo-slides.pptx
 5. Review the kubectl scripts:  step1.sh, step2.sh, step3.sh
