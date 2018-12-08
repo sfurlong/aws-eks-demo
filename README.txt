@@ -11,3 +11,4 @@ To get started, please review materials in this order
 
 release notes:
 09/19/18 - Initial revision.
+12/08/18 - Minor updates to docs. Baselined in Git. furlons@
